@@ -69,3 +69,12 @@
 		scrolling = false;
 	};
 })();
+
+window.onload = function(){
+	var welcomeText = 'Matthew Lam';
+	var customHello = window.location.href.split('?')[1];
+	if(customHello){
+		welcomeText = 'Hello ' + customHello;
+	}
+	document.getElementById('customHello').innerHTML = welcomeText;
+}

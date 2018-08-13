@@ -184,8 +184,6 @@ Vertical Timeline - by CodyHouse.co
   background: transparent;
   border-radius: 0.25em;
   padding: 1em;
-  -webkit-box-shadow: 0 3px 0 #d7e4ed;
-          box-shadow: 0 3px 0 #d7e4ed;
 }
 
 .cd-timeline__content:after {

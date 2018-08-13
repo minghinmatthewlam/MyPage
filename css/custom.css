@@ -181,7 +181,7 @@ Vertical Timeline - by CodyHouse.co
 .cd-timeline__content {
   position: relative;
   margin-left: 60px;
-  background: white;
+  background: #F05F40;
   border-radius: 0.25em;
   padding: 1em;
   -webkit-box-shadow: 0 3px 0 #d7e4ed;
@@ -208,7 +208,8 @@ Vertical Timeline - by CodyHouse.co
 }
 
 .cd-timeline__content h2 {
-  color: #303e49;
+  //color: #303e49;
+  color: white;
 }
 
 .cd-timeline__content p,
@@ -220,6 +221,7 @@ Vertical Timeline - by CodyHouse.co
 .cd-timeline__content p {
   margin: 1em 0;
   line-height: 1.6;
+  color: white;
 }
 
 .cd-timeline__read-more,

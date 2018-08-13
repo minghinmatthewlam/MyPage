@@ -181,7 +181,7 @@ Vertical Timeline - by CodyHouse.co
 .cd-timeline__content {
   position: relative;
   margin-left: 60px;
-  background: #F05F40;
+  background: transparent;
   border-radius: 0.25em;
   padding: 1em;
   -webkit-box-shadow: 0 3px 0 #d7e4ed;
@@ -208,8 +208,8 @@ Vertical Timeline - by CodyHouse.co
 }
 
 .cd-timeline__content h2 {
-  //color: #303e49;
-  color: white;
+  color: #303e49;
+  //color: white;
 }
 
 .cd-timeline__content p,
@@ -221,7 +221,9 @@ Vertical Timeline - by CodyHouse.co
 .cd-timeline__content p {
   margin: 1em 0;
   line-height: 1.6;
-  color: white;
+  //color: white;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1rem;
 }
 
 .cd-timeline__read-more,
@@ -252,7 +254,7 @@ Vertical Timeline - by CodyHouse.co
     font-size: 2rem;
   }
   .cd-timeline__content p {
-    font-size: 1.6rem;
+    font-size: 1rem;
   }
   .cd-timeline__read-more,
   .cd-timeline__date {

@@ -8,6 +8,10 @@ Primary style
           box-sizing: border-box;
 }
 
+.home-link {
+  color: #F05F40 !important;
+}
+
 #experience {
   font-size: 1.6rem;
   font-family: "Droid Serif", serif;

@@ -78,3 +78,5 @@ window.onload = function(){
 	}
 	document.getElementById('customHello').innerHTML = welcomeText;
 }
+
+

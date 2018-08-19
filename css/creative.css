@@ -177,6 +177,10 @@ header.masthead {
   background-size: cover;
 }
 
+header.masthead.sights {
+  background-image: url("../img/cool_sights/portugal_beach.png") !important;
+}
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;

@@ -181,6 +181,21 @@ header.masthead.sights {
   background-image: url("../img/cool_sights/portugal_beach.png") !important;
 }
 
+header.masthead.buildings {
+  background-image: url("../img/buildings/portugal_palace.jpg") !important;
+}
+header.masthead.peeps {
+  background-image: url("../img/peeps/Beigao.jpg") !important;
+}
+
+header.masthead.food {
+  background-image: url("../img/food/IceCream.jpg") !important;
+}
+
+header.masthead.me {
+  background-image: url("../img/me/lynn_canyon.jpg") !important;
+}
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;

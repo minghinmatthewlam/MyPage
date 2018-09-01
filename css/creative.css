@@ -177,6 +177,10 @@ header.masthead {
   background-size: cover;
 }
 
+header.masthead.fashion {
+  background-image: url("../img/fashion/Ultraboost.jpg") !important;
+}
+
 header.masthead.sights {
   background-image: url("../img/cool_sights/portugal_beach.png") !important;
 }
@@ -193,7 +197,7 @@ header.masthead.food {
 }
 
 header.masthead.me {
-  background-image: url("../img/me/lynn_canyon.jpg") !important;
+  background-image: url("../img/me/VictoriaPose.jpg") !important;
 }
 
 header.masthead hr {
